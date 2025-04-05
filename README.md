@@ -9,7 +9,7 @@ This project is a DBMS interface built using Python for my CP363 Assignment 10.
 To run this project locally, you need to install the required dependencies and set up the environment.
 
 ### Prerequisites
-- Python 3.x
+- `Python 3.x`
 - `mysql-connector`
 - `tkinter`
 
@@ -46,3 +46,6 @@ To run this project locally, you need to install the required dependencies and s
    ```bash
    python main.py
    ```
+
+### Notes
+- You need a function MySQL Database in MySQL Workbench that the program will connect to as it is hosted on your own server
