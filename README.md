@@ -49,3 +49,29 @@ To run this project locally, you need to install the required dependencies and s
 
 ## Notes
 - You need a functioning MySQL Database in MySQL Workbench that the program will connect to as it is hosted on your own server
+
+## Screenshots
+
+### Program Startup
+![Program Startup](Screenshots/ProgramStartup.png)
+
+### Successfully Connected
+![Successfully Connected](Screenshots/SuccessfullyConnected.png)
+
+### Wrong Password Screen
+![Wrong Password Screen](Screenshots/WrongPasswordScreen.png)
+
+### GUI Reading Function
+![GUI Reading Function](Screenshots/GUIReadingFunction.png)
+
+### SQL Query Execution
+![SQL Query Execution](Screenshots/SQLQueryExecution.png)
+
+### Add Function
+![Add Function](Screenshots/AddFunction.png)
+
+### Update Record Function
+![Update Record Function](Screenshots/UpdateRecordFunction.png)
+
+### Delete Function
+![Delete Function](Screenshots/DeleteFunction.png)
