@@ -47,5 +47,5 @@ To run this project locally, you need to install the required dependencies and s
    python main.py
    ```
 
-### Notes
+## Notes
 - You need a function MySQL Database in MySQL Workbench that the program will connect to as it is hosted on your own server
