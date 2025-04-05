@@ -48,4 +48,4 @@ To run this project locally, you need to install the required dependencies and s
    ```
 
 ## Notes
-- You need a function MySQL Database in MySQL Workbench that the program will connect to as it is hosted on your own server
+- You need a functioning MySQL Database in MySQL Workbench that the program will connect to as it is hosted on your own server
