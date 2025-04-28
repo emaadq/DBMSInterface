@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a DBMS interface built using Python for my CP363 Assignment 10.
+This project is a DBMS interface built using Python for my CP363, Database I class.
 
 ## Installation
 
